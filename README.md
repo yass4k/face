@@ -10,3 +10,5 @@ To learn how to use face, click one of the links below. If you do not know which
 [Python Instructions](https://github.com/yass4k/face/blob/main/python%20instructions.md)
 
 [Website Instructions](https://github.com/yass4k/face/blob/main/website%20instructions.md)
+
+[Download Instructions](https://github.com/yass4k/face/blob/main/download%20instructions.md)

@@ -6,3 +6,6 @@ After downloading Visual Studio C++, you will have to download the libraries. Go
 
 `pip install face_recognition`
 
+After this, download the source code of this program.
+
+Continued

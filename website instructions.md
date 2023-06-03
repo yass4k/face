@@ -1,1 +1,1 @@
-Coming soon
+Currently, I am trying to find a way to integrate Python into HTML and Javascript. After I figure this out, I will be able to make a website for this program. This website will give the ability for people on mobile devices to use this program. Along with that, the website will make accsessing this program easier.

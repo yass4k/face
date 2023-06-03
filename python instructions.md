@@ -2,7 +2,7 @@ To start, download this repository. After that, you will need to download Visual
 
 After downloading Visual Studio C++, you will have to download the libraries. Go into the Command Prompt and type each of these in order:
 
-`pip install Pillow`
+`pip install Pillow \n pop`
 
 `pip install face_recognition`
 

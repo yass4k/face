@@ -1,0 +1,8 @@
+Ethnic group, Average rating
+
+Latino, 5.1
+White, 4.9
+Black, 4.8
+Indian, 4.5
+Asian, 4.4
+Arab, 4.3
